@@ -1,0 +1,13 @@
+en:
+  welcome: "Welcome to calculator! Enter your name: "
+  valid_name: "Make sure to use a valid name."
+  number_prompt_1: "Please type the first number: "
+  number_prompt_2: "Please type the second number:"
+  invalid_number: "Hmm...that doesn't look like a valid number."
+  invalid_operator: "Must choose 1,2,3, or 4."
+  add: "Adding"
+  subtract: "Subtracting"
+  multiply: "Multiplying"
+  divide: "Dividing"
+  another_operation: 'Do you want to perform another calculation? (Type Y to calculate again)'
+  good_bye: 'Thank you for using Calculator. Good_bye!'
