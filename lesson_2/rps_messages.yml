@@ -1,0 +1,15 @@
+welcome: "Welcome to Rock, Paper, Scissors, Lizard, Spock! Please type your name:"
+valid_name: "Please type a valid name."
+choices: "Choose one: rock, paper, scissors, lizard, or spock. 
+    Type r for rock, p for paper, ss for scissors, l for lizard, 
+    or sk for spock."
+valid_choice: "Please enter a valid choice. 
+      Type r for rock, p for paper, ss for scissors, l for lizard, 
+      or sk for spock."
+tied_winners: "Both you and Computer are grand winners of this match!"
+grand_winner_player: "You are the grand winner for this match!"
+grand_winner_computer: "Computer is the grand winner for this match!"
+valid_answer: "Please type a valid answer, y or n, yes or no."
+computer_won: "Computer won!"
+tied: "It's a tie!"
+play_again: "Do you want to play again?"
